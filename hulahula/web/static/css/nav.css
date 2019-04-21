@@ -1,0 +1,37 @@
+.header {
+    position: relative;
+    height: 60px;
+    border-bottom: 1px solid #404553;
+    background-color: #393D49;
+}
+
+.main_icon {
+    width: 124px;
+    height: 48px;
+    margin-top: 6px
+}
+
+.nav_search {
+    position: absolute;
+    width: 160px;
+    left: 160px;
+    top: 12px;
+}
+
+.nav_searchbtn {
+    position: absolute;
+    width: 40px;
+    left: 320px;top: 12px;
+}
+
+.nav_ul {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 0;
+    background: none;
+}
+
+a:hover{
+    color: #01AAED;
+}
